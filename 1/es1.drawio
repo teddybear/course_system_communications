@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
   <diagram name="Página-1" id="ztFMWlfKOKHECKkMHyaq">
-    <mxGraphModel dx="2709" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
+    <mxGraphModel dx="2231" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -92,11 +92,10 @@
         <mxCell id="DnySy9knM9GUUwWtsOCn-24" value="кандидат выполнил задание" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1650" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DnySy9knM9GUUwWtsOCn-26" value="назначенное на кандидата задание" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DnySy9knM9GUUwWtsOCn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;jumpStyle=arc;curved=0;" parent="1" source="DnySy9knM9GUUwWtsOCn-34" target="DnySy9knM9GUUwWtsOCn-26" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DnySy9knM9GUUwWtsOCn-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;jumpStyle=arc;curved=0;entryPerimeter=0;" parent="1" source="DnySy9knM9GUUwWtsOCn-34" target="DnySy9knM9GUUwWtsOCn-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DnySy9knM9GUUwWtsOCn-34" value="Задание для кандидата назначено" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1200" y="115" width="120" height="60" as="geometry" />
