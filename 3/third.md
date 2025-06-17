@@ -2,6 +2,55 @@
 
 ## Схемы событий
 
+### Функциональное событие: Задание выполнено
+
+```json
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+
+  "title": "ExerciseCompleted",
+  "description": "Initial json schema for exercise completed event",
+
+  "definitions": {
+    "payload": {
+      "type": "object",
+      "properties": {
+        "exercise_id":           { "type": "string" },
+        "title":                 { "type": "string" },
+        "author_id":             { "type": "string" },
+        "candidate_id":          { "type": "string" },
+        "completed_at":          { "type": "string" },
+      },
+      "required": [
+        "exercise_id",
+        "title",
+        "author_id",
+        "candidate_id",
+        "completed_at"
+      ]
+    }
+  },
+
+  "type": "object",
+
+  "properties": {
+    "event_id":      { "type": "string" },
+    "event_version": { "enum": [0] },
+    "event_name":    { "enum": ["ExerciseCompleted"] },
+    "produced_at":   { "type": "string" },
+    "payload": { "$ref": "#/definitions/payload" }
+  },
+
+  "required": [
+    "event_id",
+    "event_version",
+    "event_name",
+    "produced_at",
+    "payload"
+  ]
+}
+```
+
 ## Процессы миграции
 
 ### Sync -> ED Async (form)
