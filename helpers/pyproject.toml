@@ -1,0 +1,7 @@
+[project]
+name = "helpers"
+version = "0.1.0"
+description = "Gen JSON Schema for third lesson hw"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["pydantic"]
