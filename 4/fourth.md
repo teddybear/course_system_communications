@@ -17,3 +17,7 @@
 | Problem-080       |                     |                       |
 | Problem-090       |                     |                       |
 | Problem-100       |                     |                       |
+
+
+![Мем Раз](memes/meme1.png)
+![Мем Два](memes/meme2.png)
