@@ -263,11 +263,11 @@
 
 ## Мемы
 
-![alt text](memes/meme1.png)
-![alt text](memes/meme2.png)
-![alt text](memes/meme3.png)
-![alt text](memes/meme4.png)
-![alt text](memes/meme5.png)
-![alt text](memes/meme6.png)
-![alt text](memes/meme7.png)
-
+![Мем 1](memes/meme1.png)
+![Мем 2](memes/meme2.png)
+![Мем 3](memes/meme3.png)
+![Мем 4](memes/meme4.png)
+![Мем 5](memes/meme5.png)
+![Мем 6](memes/meme6.png)
+![Мем 7](memes/meme7.png)
+![Мем 8](memes/meme8.png)
