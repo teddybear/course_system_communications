@@ -51,3 +51,5 @@
 ![Мем Три](memes/meme3.png)
 ![Мем Четыре](memes/meme4.png)
 ![Мем Пять](memes/meme5.png)
+![Мем Шесть](memes/meme6.png)
+![Мем Семь](memes/meme7.png)
