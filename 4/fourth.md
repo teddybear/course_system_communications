@@ -56,3 +56,4 @@
 ![Мем Пять](memes/meme5.png)
 ![Мем Шесть](memes/meme6.png)
 ![Мем Семь](memes/meme7.png)
+![Мем Восемь](memes/meme8.png)
